@@ -1,0 +1,1 @@
+"./source/gpio_if.obj" "./source/main.obj" "./source/pinmux.obj" "./source/startup_ccs.obj" "../cc3200v1p32.cmd" -l"C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/lib/libc.a" -l"H:/Data2/Gluevity/Technical/TIWorkspace/TIMiddlewareFiles/driverlib/ccs/Release/driverlib.a" 
